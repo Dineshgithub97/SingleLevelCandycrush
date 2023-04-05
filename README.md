@@ -35,5 +35,6 @@ Gameplay Screenshot
 ![Screenshot (299)](https://user-images.githubusercontent.com/124812926/230157983-7ed0972a-7889-4ddd-8512-176e3f614c2d.png)
 
 Contributions
+
 Contributions are welcome! 
 If you'd like to contribute, please fork the repository and submit a pull request.
