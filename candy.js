@@ -19,6 +19,10 @@ window.onload = function() {
     }, 100);
 }
 
+setTimeout(()=>{
+    score = 0;
+},1000);
+
 
 let timeLeft = 60; // Time left for the game in seconds
 score = 0;
